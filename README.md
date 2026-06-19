@@ -1,4 +1,4 @@
-# BroadApps Content Service
+# broadapps_test_task
 
 Тестовое задание: сервис генерации изображений и видео через Fal.ai API.
 
